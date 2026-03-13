@@ -1,0 +1,32 @@
+# Arduino build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arduino IDE
+*.bak
+*.orig
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Logs
+*.log
